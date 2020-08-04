@@ -1,5 +1,5 @@
 const request = require('request');
-var skyKey = '8050c5bdb7831c1610a00e266423484d';
+var skyKey = '*******';
 
 // var getWeather = (latitude,longitude,callback) =>{
 //     request({
